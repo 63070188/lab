@@ -12,26 +12,26 @@
         <div class="row">
             <div class="col-lg-6 col-sm-6">
                 <div class="row">
-                    <img src="img/staffs/staff9.jpg" class="img-fluid" style="padding: 1px;"/>
+                    <img src="staff9.jpg" class="img-fluid" style="padding: 1px;"/>
                 </div>
             </div>
             <div class="col-lg-3 col-sm-3">
                 <div class="row">
-                    <img src="img/natural/5.jpg" class="img-fluid " style="padding: 1px;"/>
+                    <img src="5.jpg" class="img-fluid " style="padding: 1px;"/>
                 </div>
                 <div class="row">
-                    <img src="img/natural/7.jpg" class="img-fluid" style="padding: 1px;"/>
+                    <img src="7.jpg" class="img-fluid" style="padding: 1px;"/>
                 </div>
                 <div class="row">
-                    <img src="img/natural/3.jpg" class="img-fluid" style="padding: 1px;"/>
+                    <img src="3.jpg" class="img-fluid" style="padding: 1px;"/>
                 </div>
             </div>
             <div class="col-lg-3 col-sm-3">
                 <div class="row">
-                    <img src="img/creative/creative8.jpg" class="img-fluid" style="height: 382px; width: 300px;"/>
+                    <img src="creative8.jpg" class="img-fluid" style="height: 382px; width: 300px;"/>
                 </div>
                 <div class="row">
-                    <img src="img/natural/4.jpg" class="img-fluid" style="padding: 1px;"/>
+                    <img src="4.jpg" class="img-fluid" style="padding: 1px;"/>
                 </div>
             </div>
         </div>
